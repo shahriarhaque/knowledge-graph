@@ -2,7 +2,6 @@
 
 [What CRISPR-baby prison sentences mean for research (nature.com)](https://www.nature.com/articles/d41586-020-00001-y)
 
-## Full-text
 ### What CRISPR-baby prison sentences mean for research
 
 ![He Jiankui is reflected in a glass panel](https://media.nature.com/lw800/magazine-assets/d41586-020-00001-y/d41586-020-00001-y_17528916.jpg)

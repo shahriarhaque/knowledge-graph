@@ -1,6 +1,5 @@
 #china #uighur
 
-## Full-text
 ### 'Their goal is to destroy everyone': Uighur camp detainees allege systematic rape
 
 **By Matthew Hill, David Campanale and Joel Gunter**  

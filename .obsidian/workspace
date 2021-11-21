@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "videos/Gaslighting explained with examples.md",
+            "file": "articles/Three Evils - China.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#china",
+                "query": "tag:#eugenics",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 522
   },
   "right": {
     "id": "4bfce6c5e4163674",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "videos/Gaslighting explained with examples.md",
+                "file": "articles/Three Evils - China.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0e7497b44c15ddc8",
   "lastOpenFiles": [
+    "articles/Three Evils - China.md",
+    "videos/Baby myths debunked.md",
+    "videos/China's trillion dollar plan to dominate global trade.md",
     "videos/Gaslighting explained with examples.md",
     "videos/How China’s Flagship Belt and Road Project Stalled Out.md",
     "videos/How Islamist militant groups are gaining strength in Africa.md",
     "videos/In China, The Future of Shopping Is Already Happening.md",
-    "videos/India is next China.md",
-    "videos/India nationalism and religion.md",
-    "videos/Why China is building islands in the South China Sea.md",
-    "videos/China's trillion dollar plan to dominate global trade - YouTube.md",
-    "videos/Baby myths debunked.md",
-    "articles/China CRISPR Baby.md"
+    "videos/Is India The Next China.md",
+    "videos/India's Deadly Mix of Nationalism and Religion.md",
+    "articles/What CRISPR-baby prison sentences mean for research.md"
   ]
 }
