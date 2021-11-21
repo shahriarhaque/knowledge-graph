@@ -1,7 +1,5 @@
-## Tags
 #india #china #economy
 
-## Link
 [Is India The Next China? - YouTube](https://www.youtube.com/watch?v=aKNPP8nwD_E)
 
 ## Transcript

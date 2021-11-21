@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "videos/India nationalism and religion.md",
+            "file": "videos/How China’s Flagship Belt and Road Project Stalled Out.md",
             "mode": "source"
           }
         }
@@ -39,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:#china",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "videos/India nationalism and religion.md",
+                "file": "videos/How China’s Flagship Belt and Road Project Stalled Out.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,15 @@
   },
   "active": "0e7497b44c15ddc8",
   "lastOpenFiles": [
-    "videos/India nationalism and religion.md",
+    "videos/How China’s Flagship Belt and Road Project Stalled Out.md",
+    "videos/How Islamist militant groups are gaining strength in Africa.md",
+    "videos/In China, The Future of Shopping Is Already Happening.md",
     "videos/India is next China.md",
-    "videos/Baby myths debunked.md"
+    "videos/India nationalism and religion.md",
+    "videos/Why China is building islands in the South China Sea.md",
+    "videos/China's trillion dollar plan to dominate global trade - YouTube.md",
+    "videos/Baby myths debunked.md",
+    "articles/China CRISPR Baby.md",
+    "articles/China lunar exploration program.md"
   ]
 }

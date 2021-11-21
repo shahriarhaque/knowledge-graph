@@ -1,7 +1,5 @@
-## Tags
 #health #baby
 
-## Link
 [Pediatricians Debunk 16 Baby Myths - YouTube](https://www.youtube.com/watch?v=jzFY1KDoaeU)
 
 ## Transcript

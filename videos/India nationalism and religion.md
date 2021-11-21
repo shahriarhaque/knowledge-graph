@@ -1,7 +1,5 @@
-## Tags
 #india #religion #politics
 
-## Link
 [India's Deadly Mix of Nationalism and Religion - YouTube](https://www.youtube.com/watch?v=1tUGIkT5xcQ)
 
 ## Transcript
