@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "60baf82e681d4855",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e7497b44c15ddc8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "videos/India nationalism and religion.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93bf5c9cd7f0b6f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9716fa90a7833d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2cefdbf0de80157",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d78adb7db77a586d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4bfce6c5e4163674",
+    "type": "split",
+    "children": [
+      {
+        "id": "601338622a05b4a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e8ee319e853ea18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "videos/India nationalism and religion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0e7497b44c15ddc8",
+  "lastOpenFiles": [
+    "videos/India nationalism and religion.md",
+    "videos/India is next China.md",
+    "videos/Baby myths debunked.md"
+  ]
+}
